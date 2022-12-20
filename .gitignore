@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.env
 
 # Distribution / packaging
 .Python
@@ -24,6 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.*
 MANIFEST
 
 # PyInstaller
@@ -35,6 +37,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+.env
+.*
 
 # Unit test / coverage reports
 htmlcov/
@@ -105,6 +109,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.*
 .env
 .venv
 env/
