@@ -1539,4 +1539,4 @@ async def on_raw_reaction_add(reaction):
 
 asyncio.run(init_db())
 asyncio.run(load_cogs())
-bot.run(config["token"])
+bot.run(os.getenv("DISCORD_TOKEN"))
