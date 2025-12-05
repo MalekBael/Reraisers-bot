@@ -54,7 +54,7 @@ python-dotenv==0.21.0
 pytz==2022.6
 pyxivapi==0.5.1
 redis==4.4.0
-requests==2.28.1
+requests==2.32.4
 sgmllib3k==1.0.0
 six==1.16.0
 soupsieve==2.3.2.post1
