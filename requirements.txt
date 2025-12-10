@@ -63,7 +63,7 @@ tqdm==4.64.1
 typing_extensions==4.4.0
 urllib3==2.5.0
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==3.1.4
 yarl==1.8.1
 youtube-dl==2021.12.17
 zope.event==4.5.0
